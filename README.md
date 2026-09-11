@@ -5,13 +5,13 @@ Installers and automatic updates for SignApp Pad.
 <!-- signapp-downloads:start -->
 ## Download the latest version
 
-**Version 0.3.5**
+**Version 0.3.6**
 
 | Platform | Download |
 |---|---|
-| Windows | [Download Windows Setup](https://github.com/webapp-software/signapp-pad-releases/releases/download/v0.3.5/SignAppPad-0.3.5-setup.exe) |
-| macOS — Apple silicon | [Download for Apple silicon](https://github.com/webapp-software/signapp-pad-releases/releases/download/v0.3.5/SignAppPad-0.3.5-mac-arm64.dmg) |
-| macOS — Intel | [Download for Intel](https://github.com/webapp-software/signapp-pad-releases/releases/download/v0.3.5/SignAppPad-0.3.5-mac-x64.dmg) |
+| Windows | [Download Windows Setup](https://github.com/webapp-software/signapp-pad-releases/releases/download/v0.3.6/SignAppPad-0.3.6-setup.exe) |
+| macOS — Apple silicon | [Download for Apple silicon](https://github.com/webapp-software/signapp-pad-releases/releases/download/v0.3.6/SignAppPad-0.3.6-mac-arm64.dmg) |
+| macOS — Intel | [Download for Intel](https://github.com/webapp-software/signapp-pad-releases/releases/download/v0.3.6/SignAppPad-0.3.6-mac-x64.dmg) |
 
 [All release files and release notes](https://github.com/webapp-software/signapp-pad-releases/releases/latest)
 <!-- signapp-downloads:end -->
